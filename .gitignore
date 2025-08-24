@@ -1,0 +1,26 @@
+# Arquivos e pastas comuns para projetos Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.db
+*.bak
+*.tmp
+# VS Code
+.vscode/
+# Dados
+/data/
